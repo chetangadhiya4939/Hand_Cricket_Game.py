@@ -1,4 +1,4 @@
-# Hand Cricket Game
+# Hand_Cricket_Game.py
 
 This Python script implements a featured hand cricket game where the player competes against the computer by batting and bowling. In hand cricket, players take turns to bat and bowl, and they score runs based on the number they choose. The objective is to score more runs than the opponent or to get the opponent out by matching their chosen number.
 
